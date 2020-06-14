@@ -1,6 +1,6 @@
 # Introduction to Software Engineering
 
-Coursework done for the University of Calgary. Assignments involved a variety of software development practices, such as requirements gathering, UML and sequence diagrams, and code inspection.
+Coursework done for the University of Calgary. Assignments involved a variety of software development practices, such as requirements gathering, developing use cases, UML and sequence diagrams, and code inspection.
 
 ## Group Project
 
